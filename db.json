@@ -1,0 +1,49 @@
+{
+  "accounts": [
+    {
+      "name": "administrator",
+      "email": "admin@mit.edu",
+      "balance": 0,
+      "password": "123456",
+      "transactions": []
+    },
+    {
+      "name": "Hanzhang Qin",
+      "email": "hanzhangqin8@gmail.com",
+      "balance": 232,
+      "password": "123456",
+      "transactions": [
+        {
+          "date": "2018-10-06T02:37:03.095Z",
+          "amount": 123,
+          "type": "Deposit"
+        },
+        {
+          "date": "2018-10-06T02:37:07.082Z",
+          "amount": 123,
+          "type": "Withdraw"
+        },
+        {
+          "date": "2018-10-06T02:37:12.841Z",
+          "amount": 23,
+          "type": "Deposit"
+        },
+        {
+          "date": "2018-10-06T02:37:16.493Z",
+          "amount": 2,
+          "type": "Withdraw"
+        },
+        {
+          "date": "2018-10-06T03:03:37.369Z",
+          "amount": 1,
+          "type": "Withdraw"
+        },
+        {
+          "date": "2018-10-06T03:03:51.458Z",
+          "amount": 212,
+          "type": "Deposit"
+        }
+      ]
+    }
+  ]
+}
